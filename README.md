@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥬 GAIKWAD FARM
+#  GAIKWAD FARM
 
 ### Hyperlocal Vegetable Delivery & Franchise Platform
 
@@ -15,15 +15,15 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **GAIKWAD FARM** is a modern hyperlocal vegetable delivery platform designed to transform traditional vegetable shops into scalable digital businesses. Inspired by platforms like Swiggy, Blinkit, and Zomato, it focuses specifically on fresh produce delivery — enabling online ordering, live tracking, secure payments, and future franchise expansion.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 Customer
+###   Customer
 - User authentication & profile management
 - Browse fresh vegetables, fruits & groceries
 - Smart product search
@@ -34,24 +34,24 @@
 - Address management
 - Mobile-responsive UI
 
-### 🛒 Admin
+###  Admin
 - Product & inventory management
 - Order monitoring & delivery assignment
 - Customer management
 - Sales analytics & revenue tracking
 
-### 🚚 Delivery Partner
+###  Delivery Partner
 - Dedicated delivery login
 - Order acceptance & live navigation
 - Delivery status updates with OTP verification
 - Earnings dashboard
 
-### 🏪 Franchise System *(Coming Soon)*
+###  Franchise System *(Coming Soon)*
 - Franchise registration & area management
 - Revenue sharing & multi-store operations
 - Franchise analytics dashboard
 
-### 🧠 AI Features *(Coming Soon)*
+###  AI Features *(Coming Soon)*
 - Smart demand prediction & inventory forecasting
 - Dynamic pricing system
 - AI freshness detection
@@ -60,7 +60,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Flutter Mobile App
@@ -96,7 +96,7 @@ Franchise Management
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 GAIKWAD_FARM/
@@ -193,7 +193,7 @@ flutter run
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Users
 | Column | Type | Description |
@@ -223,7 +223,7 @@ flutter run
 
 ---
 
-## 🔐 Security
+##  Security
 
 - **JWT Authentication** — stateless, token-based login
 - **Secure Password Hashing** — bcrypt via passlib
@@ -273,9 +273,9 @@ Phase 2 — Core Commerce
   ✅ Razorpay Payment Integration
 
 Phase 3 — Logistics & Operations
-  🔄 Live Delivery Tracking
-  🔄 Push Notifications
-  🔄 Admin Dashboard
+   Live Delivery Tracking
+   Push Notifications
+   Admin Dashboard
 
 Phase 4 — Scale
   🔜 Franchise Management System
@@ -291,7 +291,7 @@ GAIKWAD FARM aims to empower local vegetable vendors by providing a scalable dig
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Saksham Gaikwad**
 
@@ -302,7 +302,7 @@ Focused on Full Stack Development, AI/ML Integration, and Startup Scalable Archi
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
@@ -310,6 +310,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-*Built with ❤️ to modernize local vegetable commerce.*
+*Built with  to modernize local vegetable commerce.*
 
 </div>
