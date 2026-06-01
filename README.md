@@ -297,8 +297,8 @@ GAIKWAD FARM aims to empower local vegetable vendors by providing a scalable dig
 
 Focused on Full Stack Development, AI/ML Integration, and Startup Scalable Architecture.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://github.com/sakshamgaikwad-tech)
+[![LinkedIn](https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/)
 
 ---
 
